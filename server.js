@@ -16,7 +16,7 @@ app.use(express.static("db"));
 
 // ROUTER
 
-require("./routes/apiRoutes.js")(app);
+require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 // LISTENER
