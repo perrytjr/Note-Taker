@@ -6,7 +6,7 @@
 This application is a Node CLI that uses express backend and save and retrieve note data from a JSON file.
 
 
-![](https://github.com/perrytjr/Employee-Team-Generator/blob/master/Assets/Screen%20Shot%202020-09-11%20at%202.15.33%20PM.png)
+![](https://github.com/perrytjr/Note-Taker/blob/master/public/assets/Screen%20Shot%202020-09-19%20at%2010.00.04%20AM.png)
 
 
 ## How it functions
