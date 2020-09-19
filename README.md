@@ -37,7 +37,7 @@ https://www.rithmschool.com/courses/node-express-fundamentals/json-with-express
 
 ## Link
 
-Please use the following link to access the application. https://drive.google.com/file/d/17R-Th7Sg4PPgm59bGv1RDA3VMjBdlUwP/view?usp=sharing
+Please use the following link to access the application. https://safe-lake-34247.herokuapp.com/notes.html
 # Contact
 
 Linkedin: https://linkedin.com/in/perry-theobald-42450241
